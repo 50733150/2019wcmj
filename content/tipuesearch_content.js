@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'head 1', 'text': 'content 1 \n', 'tags': '', 'url': 'head 1.html'}, {'title': '學習如何上傳影片', 'text': '\n', 'tags': '', 'url': '學習如何上傳影片.html'}]};
+var tipuesearch = {"pages": [{'title': 'head 1', 'text': 'content 1 \n', 'tags': '', 'url': 'head 1.html'}, {'title': '學習如何上傳影片', 'text': '\n', 'tags': '', 'url': '學習如何上傳影片.html'}, {'title': '期末報告', 'text': '', 'tags': '', 'url': '期末報告.html'}]};
