@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '簡介1', 'text': '學習如何一次上傳多個圖檔, 並且學會如何引用, 並且設定圖片大小 \n \n \n \n', 'tags': '', 'url': '簡介1.html'}, {'title': 'game1', 'text': "\xa0 \n \n  Your browser doesn't support the HTML5 element canvas.      Throw dice  \n Stage:   Point:   Outcome:  \n", 'tags': '', 'url': 'game1.html'}, {'title': 'game2', 'text': '\n Try it \n \n', 'tags': '', 'url': 'game2.html'}]};
+var tipuesearch = {"pages": [{'title': 'head 1', 'text': 'content 1 \n', 'tags': '', 'url': 'head 1.html'}, {'title': '學習如何上傳影片', 'text': '\n', 'tags': '', 'url': '學習如何上傳影片.html'}]};
